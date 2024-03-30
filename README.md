@@ -4,34 +4,17 @@
 <section id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
-      <br />
-      I'm the Unknown Developer.
-    </h1>
-    <p class="hero-cta load-hidden">
-      <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
-        Know more
-      </a>
-    </p>
-  </div>
-</section>
-<!-- /END Hero Section -->
-```
+      PROYECTO SOBRE ROBOT AUTOMATA CARACTERIZADO EN LA INDUSTRIA AGRICOLA <span class="text-color-main">
+
 
 <!-- **** About Section **** -->
 <section id="about">
   <div class="container">
-    <h2 class="section-title load-hidden">About me</h2>
+    <h2 class="section-title load-hidden">SOBRE NUESTRO PROYECTO</h2>
     <div class="row about-wrapper">
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__image load-hidden">
           <img
-            alt="Profile Image"
-            class="img-fluid rounded shadow-lg"
-            height="auto"
-            width="300px"
-            src="assets/profile.jpg"
-            alt="Profile Image"
           />
         </div>
       </div>
@@ -45,26 +28,14 @@
             Extra Information about you! like hobbies and your goals.
           </p>
           <span class="d-flex mt-3">
-            <a
-              rel="noreferrer"
-              target="_blank"
-              class="cta-btn cta-btn--resume"
-              href="assets/resume.pdf"
-            >
-              View Resume
-            </a>
-          </span>
-        </div>
-      </div>
-    </div>
-  </div>
+            
 </section>
 <!-- /END About Section -->
-```
+
 
 <!-- **** Projects Section **** -->
 <section id="projects">
-  ...
+
   <!-- Notice: each .row is a project -->
   <div class="row">
     <div class="col-lg-4 col-sm-12">
@@ -84,42 +55,13 @@
           class="cta-btn cta-btn--hero"
           href="#!"
         >
-          See Live
-        </a>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          class="cta-btn text-color-main"
-          href="#!"
-        >
-          Source Code
-        </a>
-      </div>
-    </div>
-    <div class="col-lg-8 col-sm-12">
-      <div class="project-wrapper__image load-hidden">
-        <a rel="noreferrer" href="#!" target="_blank">
-          <div
-            data-tilt
-            data-tilt-max="4"
-            data-tilt-glare="true"
-            data-tilt-max-glare="0.5"
-            class="thumbnail rounded js-tilt"
-          >
-            <img
-              alt="Project Image"
-              class="img-fluid"
-              src="assets/project.jpg"
-            />
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
+      
+         
+          
   <!-- /END Project -->
-  ...
+
 </section>
-```
+
 
 
 <!-- **** Contact Section **** -->
@@ -127,38 +69,16 @@
   <div class="container">
     <h2 class="section-title">Contact</h2>
     <div class="contact-wrapper load-hidden">
-      <p class="contact-wrapper__text">[Put your call to action here]</p>
-      <a
-        rel="noreferrer"
-        target="_blank"
-        class="cta-btn cta-btn--resume"
-        href="mailto:example@email.com"
-        >Call to Action</a
-      >
+    <div> hola como estanmadbaisjdfkjashndkjasljaslkdjasd
+    asdlakjsdlkajsdljalksjdlakjsdasd
+    asldaslkdasd
     </div>
-  </div>
+      
+    
+
 </section>
 <!-- /END Contact Section -->
-```
 
-<footer class="footer navbar-static-bottom">
-  ...
-  <div class="social-links">
-    <a href="#!" target="_blank">
-      <i class="fa fa-twitter fa-inverse"></i>
-    </a>
-    <a href="#!" target="_blank">
-      <i class="fa fa-linkedin fa-inverse"></i>
-    </a>
-    <a href="#!" target="_blank">
-      <i class="fa fa-github fa-inverse"></i>
-    </a>
-  </div>
-  ...
-</footer>
-```
 
-$main-color: #02aab0;
-$secondary-color: #00cdac;
-```
+
 
