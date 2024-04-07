@@ -85,7 +85,9 @@ Portafolio del Proyecto: Robot Agrícola Automatizado para la Siembra de Trigo B
     <div> universidad san buenaventura bogota, colombia
          </div>  Cra. 8h # 172-20 · 6671090
       </div> facultad de ingenieria: tecnologia en automatizacion industrial
-    </div>  JUAN DAVID SANCHEZ AVILAN   3222832759                                                                                                                                                                                                            JUAN DAVID AMAYA  3208156749                                                                                                                                                                                                                      JUAN DAVID AMAYA  3208156749
+    </div>  JUAN DAVID SANCHEZ AVILAN   3222832759                                                                                                                                                                                                            
+  JUAN DAVID AMAYA  3208156749                                                                                                                                                                                                                      
+  JUAN DAVID AMAYA  3208156749
 
   
       
