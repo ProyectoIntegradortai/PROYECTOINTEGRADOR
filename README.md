@@ -86,8 +86,8 @@ Portafolio del Proyecto: Robot Agrícola Automatizado para la Siembra de Trigo B
          </div>  Cra. 8h # 172-20 · 6671090
       </div> facultad de ingenieria: tecnologia en automatizacion industrial
     </div>  JUAN DAVID SANCHEZ AVILAN   3222832759
-  </div>  JUAN DAVID AMAYA  3208156749
-  </div> CRISTIAN SERRANO  3024072733
+    </div>  JUAN DAVID AMAYA  3208156749
+    </div> CRISTIAN SERRANO  3024072733
   
       
 </section>
