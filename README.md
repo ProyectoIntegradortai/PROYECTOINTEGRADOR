@@ -21,7 +21,30 @@
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__info load-hidden">
           <p class="about-wrapper__info-text">
-            dgsdfsdfsdfsd
+            Introducción
+
+El presente informe detalla el proyecto de desarrollo de un robot agrícola automatizado diseñado para optimizar la siembra precisa y el monitoreo eficiente de la humedad del suelo en áreas agrícolas. Este proyecto responde a la creciente necesidad de mejorar los procesos de siembra y cuidado de cultivos, buscando maximizar la eficiencia y minimizar el impacto ambiental.
+
+Pregunta Problema
+
+En el contexto de pequeños agricultores en Cundinamarca, ¿cómo se pueden maximizar los procesos y métodos en la siembra de semillas de trigo blanco para la producción de harina, utilizando tecnología innovadora?
+
+Idea
+
+La propuesta consiste en desarrollar un vehículo autónomo destinado a mejorar los métodos convencionales de siembra, utilizando sistemas de automatización para facilitar el cultivo de semillas de trigo blanco.
+
+Objetivo General
+
+Construir un vehículo autónomo que optimice los métodos convencionales de siembra y monitoreo en cultivos de trigo blanco, mediante sistemas de automatización.
+
+Objetivos Específicos
+
+Diseñar la planografía de las partes del robot agrícola.
+Investigar los materiales necesarios para la construcción del robot, enfocándose en la siembra de semillas de trigo blanco.
+Realizar investigación sobre las características del suelo pertinentes para la elaboración del robot autónomo.
+Caracterización
+
+El producto estará dirigido a agricultores, con el objetivo de ofrecer una solución tecnológica que automatice y mejore los procesos agrícolas, especialmente en la siembra de trigo blanco.
 </section>
 <!-- /END About Section -->
 
