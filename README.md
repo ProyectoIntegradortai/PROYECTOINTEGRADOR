@@ -11,7 +11,6 @@
 <section id="about">
   <div class="container">
     <h2 class="section-title load-hidden">SOBRE NUESTRO PROYECTO</h2>
-    awdawdawdawdawdadwawdawdawdawdawd
     <div class="row about-wrapper">
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__image load-hidden">
@@ -22,14 +21,7 @@
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__info load-hidden">
           <p class="about-wrapper__info-text">
-            This is where you can describe about yourself. The more you describe
-            about yourself, the more chances you can!
-          </p>
-          <p class="about-wrapper__info-text">
-            Extra Information about you! like hobbies and your goals.
-          </p>
-          <span class="d-flex mt-3">
-            
+            dgsdfsdfsdfsd
 </section>
 <!-- /END About Section -->
 
