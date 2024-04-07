@@ -59,10 +59,7 @@ El producto estará dirigido a agricultores, con el objetivo de ofrecer una solu
         <h3 class="project-wrapper__text-title">Project Title</h3>
         <div>
           <p class="mb-4">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi
-            neque, ipsa animi maiores repellendus distinctio aperiam earum dolor
-            voluptatum consequatur blanditiis inventore debitis fuga numquam
-            voluptate ex architecto itaque molestiae.
+Portafolio del Proyecto: Robot Agrícola Automatizado para la Siembra de Trigo Blanco
           </p>
         </div>
         <a
@@ -85,9 +82,12 @@ El producto estará dirigido a agricultores, con el objetivo de ofrecer una solu
   <div class="container">
     <h2 class="section-title">Contact</h2>
     <div class="contact-wrapper load-hidden">
-    <div> hola como estanmadbaisjdfkjashndkjasljaslkdjasd
-    asdlakjsdlkajsdljalksjdlakjsdasd
-    asldaslkdasd
+    <div> universidad san buenaventura bogota, colombia
+          Cra. 8h # 172-20 · 6671090
+      facultad de ingenieria: tecnologia en automatizacion industrial
+      JUAN DAVID SANCHEZ AVILAN   3222832759
+      JUAN DAVID AMAYA  3208156749
+      CRISTIAN SERRANO  3024072733
     </div>
       
     
