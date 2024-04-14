@@ -1,4 +1,4 @@
-# PROYECTOINTEGRADOR
+# PROYECTOI NTEGRADOR
 
 <!-- **** Hero Section **** -->
 <section id="hero" class="jumbotron">
